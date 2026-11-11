@@ -1,0 +1,14 @@
+### GET request to example server
+GET https://examples.http-client.intellij.net/get
+    ?generated-in=IntelliJ IDEA
+
+###
+
+
+GET localhost:8080/profile
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ2YWxpIiwiaWF0IjoxNzk0MzkzNTgyLCJleHAiOjE3OTQzOTcxODJ9.x9otoqlJbbD2kRAC94vZ_yxIB5U4gFEcNbQgHv4il4w
+
+###
+
+DELETE localhost:8080/delete-user
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ2YWxpIiwiaWF0IjoxNzk0MzkzNTgyLCJleHAiOjE3OTQzOTcxODJ9.x9otoqlJbbD2kRAC94vZ_yxIB5U4gFEcNbQgHv4il4w
